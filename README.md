@@ -10,7 +10,7 @@ awesome-bash-aliases
 <p align="center"> <a
 href="https://travis-ci.com/dsw0214/awesome-bash-aliases" title="travis-ci"><img
 src="https://travis-ci.com/dsw0214/awesome-bash-aliases.svg?branch=master"></a>
-<a href="./LICENSE.md" title="LICENSE"><img
+<a href="./LICENSE" title="LICENSE"><img
 src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
