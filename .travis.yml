@@ -5,4 +5,4 @@ os:
     - Mac
 
 script:
-    - ./test.sh
+    - sh test.sh

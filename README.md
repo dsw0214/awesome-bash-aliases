@@ -7,10 +7,8 @@ awesome-bash-aliases
 </h1>
 
 <div align="center">A project to collect useful bash aliases and functions</div>
-<p align="center"> <a
-href="https://travis-ci.com/dsw0214/awesome-bash-aliases" title="travis-ci"><img
-src="https://travis-ci.com/dsw0214/awesome-bash-aliases.svg?branch=master"></a>
-<a href="./LICENSE.md" title="LICENSE"><img
+<p align="center"> [![Build Status](https://travis-ci.org/dsw0214/awesome-bash-aliases.svg?branch=master)](https://travis-ci.org/dsw0214/awesome-bash-aliases)
+<a href="./LICENSE" title="LICENSE"><img
 src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
