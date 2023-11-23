@@ -5,7 +5,6 @@
 <h1 align="center">
 awesome-bash-aliases
 </h1>
-
 <div align="center">A project to collect useful bash aliases and functions</div>
 <p align="center"> [![Build Status](https://travis-ci.org/dsw0214/awesome-bash-aliases.svg?branch=master)](https://travis-ci.org/dsw0214/awesome-bash-aliases)
 <a href="./LICENSE" title="LICENSE"><img
